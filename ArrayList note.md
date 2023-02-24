@@ -6,4 +6,6 @@
 
 **ArrayList**
 -It is a resizable array of List implementation class.
-It supports both 
+-It supports both homogeneousand hetrogeneous element.
+-Here size of the data is not limited.
+
