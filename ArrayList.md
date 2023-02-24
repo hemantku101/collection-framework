@@ -1,3 +1,4 @@
-
-It is a array representation of list implementation class.
-It is from java.util.ArrayList
+-It is from java.util.ArrayList
+-It is a array representation of list implementation class.
+-It allow duplicate elements because it implements List Interface.
+-Initial capacity of Arraylist is 10.
