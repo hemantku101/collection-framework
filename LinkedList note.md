@@ -6,4 +6,7 @@
 4-it is an implementation of linear list data structure.
 
 **linkedlist**
-1-
+1-It is a linked representation of list implementation class.
+2-It occupie more memory.
+3-In LinkedList,it does not require suffling of data.
+4-It is an implementation of double linkedlist data structure.
