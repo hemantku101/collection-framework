@@ -1,7 +1,7 @@
 package test;
 import java.util.LinkedHashMap;
 public class Demo {
-		public static void main(String a[])
+		public static void main(String args[])
 		{
 			// Creating an empty LinkedHashMap
 			LinkedHashMap<String, String> lhm = new LinkedHashMap<String, String>();

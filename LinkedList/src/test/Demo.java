@@ -9,10 +9,13 @@ public class Demo {
 		ll.add(43);
 		ll.add(83);
 		ll.add(56);
+		ll.offer(60);
 		ll.add(87);
+		ll.offerLast(80);
 		ll.add(83);
 		
 		ll.addFirst(67);
+		ll.addLast(10);
 		System.out.println(ll);
 	}
 }
